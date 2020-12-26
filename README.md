@@ -1,5 +1,11 @@
 ## markawes
-I play with electricity, I play with code, I make stuff!
+
+- Name : Mark
+- Age : Fossil
+- Parent : Father of 3
+- Pets : One Cat
+- Likes : Electronics, Electricial Engineering, Gadgets, Technology, Food
+- Dislikes : The word `y'all` , other peoples kids, spicy food.
 
 [MarksBot](https://marksbot.mwserver.site) | [Discord](https://discord.gg/)
 
