@@ -15,6 +15,6 @@
 
 [Elara](https://superchiefyt.xyz) | [GreenBot](https://greenbot.mwserver.site)
 
-## What I recently listened too
+## What I recently listened to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rgkgvnnpphuqxspvxw98j6752&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=rgkgvnnpphuqxspvxw98j6752&redirect=true)
