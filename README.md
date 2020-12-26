@@ -7,4 +7,4 @@ I play with electricity, I play with code, I make stuff!
 
 ##Things I help with
 
-<a href="https://superchiefyt.xyz" target="_blank">Elara</a> | < a href="https://greenbot.mwserver.site" target="_blank">GreenBot</a>
+[Elara](https://superchiefyt.xyz) | [GreenBot](https://greenbot.mwserver.site)
