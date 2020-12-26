@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Father of 3
+Plays with electricity
+Breaks things
+Has a cat
+<img src="https://github-readme-stats.vercel.app/api?username=markawes&show_icons=true&count_private=true&theme=vision-friendly-dark">
