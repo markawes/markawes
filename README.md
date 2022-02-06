@@ -6,6 +6,7 @@
 - Pets : One Cat
 - Likes : Electronics, Electricial Engineering, Gadgets, Technology, Food
 - Dislikes : The word `y'all` , other peoples kids, spicy food, sand.
+- Personal Website : [mark-wesley.co.uk](https://mark-wesley.co.uk)
 
 [MarksBot](https://marksbot.mwserver.site) | [Discord](https://discord.gg/)
 
@@ -13,7 +14,7 @@
 
 ## Things I help with
 
-[Elara](https://superchiefyt.xyz) | [GreenBot](https://greenbot.mwserver.site)
+[Elara](https://superchiefyt.xyz) | [GreenBot](https://greenbot.mwserver.site) | [Blist](https://blist/xyz)
 
 ## What I recently listened to
 
