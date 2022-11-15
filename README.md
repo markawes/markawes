@@ -3,7 +3,7 @@
 - Name : Mark
 - Age : Fossil
 - Parent : Father of 3
-- Pets : One Cat
+- Pets : One Cat, One Hamster
 - Likes : Electronics, Electricial Engineering, Gadgets, Technology, Food
 - Dislikes : The word `y'all` , other peoples kids, spicy food, sand.
 - Personal Website : [mark-wesley.co.uk](https://mark-wesley.co.uk)
