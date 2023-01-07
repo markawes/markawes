@@ -14,7 +14,7 @@
 
 ## Things I help with
 
-[Elara](https://superchiefyt.xyz) | [GreenBot](https://greenbot.mwserver.site) | [Blist](https://blist/xyz)
+[Elara](https://superchiefyt.xyz) | [Vital List](https://vitallist.xyz) | [Blist](https://blist/xyz)
 
 ## What I recently listened to
 
